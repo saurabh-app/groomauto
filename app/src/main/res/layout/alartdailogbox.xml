@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/smartgroom"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_below="@+id/toolbar"
+    android:layout_marginLeft="15dp"
+    android:layout_marginBottom="5dp"
+    android:layout_marginRight="15dp">
+
+    <ImageView
+        android:id="@+id/mty"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/smartg" />
+
+    <TextView
+        android:id="@+id/smarttxt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/mty"
+        android:gravity="center_horizontal"
+        android:text="Smart Groom"
+        android:textColor="@color/Black"
+        android:textSize="15sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/rsetxt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/smarttxt"
+        android:gravity="center_horizontal"
+        android:text="₹ 349"
+        android:textColor="@color/Black" />
+
+    <TextView
+        android:id="@+id/dectxt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/rsetxt"
+        android:gravity="center_horizontal"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"
+        android:textColor="@color/Black" />
+
+    <Button
+        android:id="@+id/Btnmore"
+        android:layout_width="85dp"
+        android:layout_height="35dp"
+        android:layout_below="@+id/dectxt"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/btnservise"
+        android:padding="2dp"
+        android:text="More Details"
+        android:textAllCaps="false"
+        android:textColor="@color/White" />
+</RelativeLayout>
+</ScrollView>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.hp.groomauto">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/ic_launcher"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme.NoActionBar">
+
+        <meta-data
+            android:name="com.facebook.sdk.ApplicationId"
+            android:value="@string/facebook_app_id" />
+
+        <activity
+            android:name="com.facebook.FacebookActivity"
+            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+            android:label="@string/app_name" />
+        <activity
+            android:name="com.facebook.CustomTabActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data android:scheme="@string/fb_login_protocol_scheme" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Activitiy.PaymentSuccess"
+            android:theme="@style/AppTheme" />
+        <activity android:name=".Activitiy.PayMentGateWay"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".Activitiy.ServiceActivity"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".Activitiy.Booking_Preview"
+            android:theme="@style/AppTheme" />
+        <activity android:name=".Activitiy.Silider_Load"
+            android:theme="@style/AppTheme.NoActionBar"/>
+        <activity
+            android:name=".Activitiy.LoginActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+
+        </activity>
+        <activity
+            android:name=".Activitiy.HomeActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Activitiy.SignUpActivity"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".Activitiy.EditProfile"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".Activitiy.ChangePassword"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".Activitiy.ForgotPasswordActivity"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".Activitiy.Servicecenter"
+            android:theme="@style/AppTheme" />
+
+        <activity android:name=".Activitiy.PDFinvoice"
+            android:theme="@style/AppTheme"/>
+
+
+        <activity android:name=".Activitiy.Groomsplash">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyCEn5q7iTfXFZuJFd33YYxcxOiqe1HCFjc" />
+
+    </application>
+
+</manifest>

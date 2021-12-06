@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="10dp">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/imgc"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:padding="8dp"
+        android:src="@drawable/service_center_shop" />
+
+    <TextView
+        android:id="@+id/sctxt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/imgc"
+        android:text="Service Center :"
+        android:textColor="@color/Black"
+        android:textSize="15sp" />
+
+    <TextView
+        android:id="@+id/desttxt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/sctxt"
+        android:layout_toRightOf="@+id/imgc"
+        android:text="Destance :"
+        android:textColor="@color/Black"
+        android:textSize="15sp" />
+
+    <TextView
+        android:id="@+id/ratingtxt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/desttxt"
+        android:layout_toRightOf="@+id/imgc"
+        android:text="Ratings :"
+        android:textColor="@color/Black"
+        android:textSize="15sp" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="190dp">
+
+        <TextView
+            android:id="@+id/txtserv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/Yollew"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/txtdes"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/txtserv"
+            android:textColor="@color/Yollew"
+            android:textSize="15sp" />
+
+        <RatingBar
+            android:id="@+id/rating"
+            style="@style/Base.Widget.AppCompat.RatingBar.Small"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/txtdes"
+            android:numStars="5" />
+    </RelativeLayout>
+</RelativeLayout>

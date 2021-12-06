@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item>
+        <layer-list>
+            <item>
+                <shape>
+                    <gradient android:angle="90" android:endColor="#ffffff" android:startColor="#ffffff" android:type="linear"/>
+
+                    <stroke android:width="1dp" android:color="#ffe3e8e9"/>
+
+                    <corners android:radius="5dp"/>
+
+                    <padding android:bottom="10dp" android:left="5dp" android:right="10dp" android:top="5dp"/>
+                </shape>
+            </item>
+            <item>
+                <bitmap android:gravity="center_vertical|right" android:src="@drawable/search_icon"/> // you can place your dropdown image
+            </item>
+        </layer-list>
+    </item>
+
+</selector>

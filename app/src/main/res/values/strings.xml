@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GroomAuto</string>
+    <string name="title_activity_home">HomeActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="loading">loading</string>
+    <string name="serverclientid">429897308100-lnahb5o1l4j5rusjrcilprgvan59mtmr.apps.googleusercontent.com</string>
+    <string name="facebook_app_id">531537340573348</string>
+    <string name="fb_login_protocol_scheme">fb531537340573348</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+</resources>

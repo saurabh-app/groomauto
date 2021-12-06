@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/smartgroom"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_below="@+id/toolbar"
+    android:layout_marginLeft="15dp"
+    android:layout_marginBottom="5dp"
+    android:layout_marginRight="15dp">
+
+    <ImageView
+        android:id="@+id/mty"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginLeft="137dp"
+        android:src="@drawable/smartg" />
+
+    <TextView
+        android:id="@+id/smarttxt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/mty"
+        android:gravity="center_horizontal"
+        android:text="Smart Groom"
+        android:textColor="@color/Black"
+        android:textSize="15sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/rsetxt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/smarttxt"
+        android:gravity="center_horizontal"
+        android:text="₹ 349"
+        android:textColor="@color/Black" />
+
+    <Button
+        android:id="@+id/Btnmore"
+        android:layout_width="85dp"
+        android:layout_height="35dp"
+        android:layout_below="@+id/rsetxt"
+        android:layout_marginLeft="135dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/btnservise"
+        android:padding="2dp"
+        android:text="More Details"
+        android:textAllCaps="false"
+        android:textColor="@color/White" />
+</RelativeLayout>

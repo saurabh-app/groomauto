@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "429897308100",
+    "firebase_url": "https://groomauto-c6958.firebaseio.com",
+    "project_id": "groomauto-c6958",
+    "storage_bucket": "groomauto-c6958.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429897308100:android:d790514e5c5b36e1",
+        "android_client_info": {
+          "package_name": "com.example.hp.groomauto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "429897308100-mpm107gipku2ero154ob6likss7eokur.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hp.groomauto",
+            "certificate_hash": "a42d1a33efc07712289da26a4b7793d5c2ca4530"
+          }
+        },
+        {
+          "client_id": "429897308100-lnahb5o1l4j5rusjrcilprgvan59mtmr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiZbpjftjhXT3lEd1kyhW0uimcq_ZsP1k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "429897308100-lnahb5o1l4j5rusjrcilprgvan59mtmr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

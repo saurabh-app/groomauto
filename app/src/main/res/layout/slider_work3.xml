@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+   >
+    <android.support.v7.widget.Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="?android:attr/actionBarSize"
+        android:id="@+id/toolbar"
+        android:background="#202b59">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:gravity="center_horizontal"
+            android:layout_height="match_parent">
+            <!--<ImageView
+                android:id="@+id/back"
+                android:layout_width="32dp"
+                android:layout_height="32dp"
+                android:src="@drawable/arrow"
+                android:layout_marginLeft="10dp"
+                android:padding="5dp" android:layout_centerVertical="true"/>-->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="FILL DETAILS"
+                android:textColor="#FFFFFF"
+                android:textSize="20dp"
+                android:gravity="center_horizontal"
+                android:layout_marginLeft="10dp"
+                android:layout_centerVertical="true" />
+        </RelativeLayout>
+    </android.support.v7.widget.Toolbar>
+    <TableLayout
+        android:id="@+id/table"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/toolbar"
+        android:layout_marginTop="60dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_centerHorizontal="true">
+        <!--<TableRow><view android:height="1dp" android:background="#f58a20"/><view android:height="1dp" android:background="#f58a20"/></TableRow>-->
+        <TableRow
+            android:paddingTop="7dp"
+            android:paddingBottom="7dp"
+            android:background="@drawable/border"/>
+        <TableRow
+            android:paddingTop="7dp"
+            android:paddingBottom="7dp"
+            android:background="@drawable/border">
+            <ImageView
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/fullname" />
+            <TextView
+                android:id="@+id/txtFullname"
+                android:layout_marginLeft="10dp"
+                android:layout_width="250dp"
+                android:layout_height="wrap_content"
+                android:background="#00AAAAAA"
+                android:hint="Full Name"
+                android:layout_gravity="center_vertical"/>
+        </TableRow>
+        <!--<TableRow><view android:height="1dp" android:background="#f58a20"/><view android:height="1dp" android:background="#f58a20"/></TableRow>-->
+        <TableRow
+            android:paddingTop="7dp"
+            android:paddingBottom="7dp"
+            android:background="@drawable/border">
+
+            <ImageView
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/menufect"/>
+            <TextView
+                android:id="@+id/txtManufect"
+                android:layout_marginLeft="10dp"
+                android:layout_width="250dp"
+                android:text="Company"
+                android:layout_height="wrap_content"
+                android:background="#00AAAAAA"
+                android:layout_gravity="center_vertical"/>
+        </TableRow>
+        <!--<TableRow><view android:height="1dp" android:background="#f58a20"/><view android:height="1dp" android:background="#f58a20"/></TableRow>-->
+        <TableRow
+            android:paddingTop="7dp"
+            android:paddingBottom="7dp"
+            android:background="@drawable/border">
+            <ImageView
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/regno"/>
+            <TextView
+                android:id="@+id/txtModel"
+                android:layout_marginLeft="10dp"
+                android:layout_width="250dp"
+                android:text="Model"
+                android:layout_height="wrap_content"
+                android:background="#00AAAAAA"
+                android:layout_gravity="center_vertical"/>
+        </TableRow>
+        <!--<TableRow><view android:height="1dp" android:background="#f58a20"/><view android:height="1dp" android:background="#f58a20"/></TableRow>-->
+        <TableRow
+            android:paddingTop="7dp"
+            android:paddingBottom="7dp"
+            android:background="@drawable/border">
+            <ImageView
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:src="@drawable/hash"/>
+            <TextView
+                android:layout_gravity="center_vertical"
+                android:id="@+id/txtRegno"
+                android:layout_marginLeft="10dp"
+                android:layout_width="250dp"
+                android:layout_height="wrap_content"
+                android:background="#00AAAAAA"
+                android:hint="Vehical Registration No."/>
+        </TableRow>
+        <!--<TableRow><view android:height="1dp" android:background="#f58a20"/><view android:height="1dp" android:background="#f58a20"/></TableRow>-->
+    </TableLayout>
+
+
+    <Button
+        android:id="@+id/Submit"
+        android:layout_width="200dp"
+        android:layout_height="35dp"
+        android:textSize="25dp"
+        android:text="SUBMIT"
+        android:background="#f58a20"
+        android:textColor="#FFFFFF"
+        android:layout_marginTop="25dp"
+        android:layout_below="@+id/table"
+        android:layout_centerHorizontal="true" />
+    <ImageView
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:src="@drawable/logo"
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/Submit"
+        android:layout_alignLeft="@+id/Submit"
+        android:layout_alignStart="@+id/Submit" />
+</RelativeLayout>

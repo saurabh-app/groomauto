@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+   android:layout_margin="10dp">
+<LinearLayout
+    android:orientation="vertical"
+    android:layout_margin="15dp"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <RelativeLayout
+    android:id="@+id/relative1"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+   <ImageView
+       android:id="@+id/img"
+       android:layout_width="35dp"
+       android:layout_height="40dp"
+       android:background="@drawable/bookingid_icon"/>
+    <TextView
+        android:paddingLeft="10dp"
+        android:layout_toRightOf="@+id/img"
+        android:layout_gravity="center_vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Booking Details"
+        android:inputType="text"
+        android:id="@+id/bdtxt"
+        android:textStyle="bold"
+        android:textSize="15sp"
+        android:textColor="@color/Black" />
+
+    <TextView
+        android:paddingLeft="10dp"
+        android:layout_toRightOf="@+id/img"
+        android:layout_below="@+id/bdtxt"
+        android:id="@+id/groomtxt"
+        android:textSize="10sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="GROOM1219100"/>
+
+</RelativeLayout>
+    <LinearLayout android:id="@+id/lldetails"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:visibility="gone"
+        android:layout_height="wrap_content">
+        <RelativeLayout
+            android:layout_below="@+id/relative1"
+            android:id="@+id/relative2"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <ImageView
+                android:id="@+id/img1"
+                android:layout_width="35dp"
+                android:layout_height="40dp"
+                android:background="@drawable/service_icon"/>
+            <TextView
+                android:paddingLeft="10dp"
+                android:layout_toRightOf="@+id/img1"
+                android:layout_gravity="center_vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Smart Groom"
+                android:inputType="text"
+                android:id="@+id/sgtxt"
+                android:textStyle="bold"
+                android:textSize="15sp"
+                android:textColor="@color/Black" />
+
+            <TextView
+                android:paddingLeft="10dp"
+                android:layout_toRightOf="@+id/img1"
+                android:layout_below="@+id/sgtxt"
+                android:id="@+id/sgrtxt"
+                android:textSize="10sp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Rs.349"/>
+
+        </RelativeLayout>
+        <RelativeLayout
+            android:layout_below="@+id/relative2"
+            android:id="@+id/relative3"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <ImageView
+                android:id="@+id/img2"
+                android:layout_width="35dp"
+                android:layout_height="40dp"
+                android:background="@drawable/ic_bike"/>
+            <TextView
+                android:paddingLeft="10dp"
+                android:layout_toRightOf="@+id/img2"
+                android:layout_gravity="center_vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Mahindra-Moto"
+                android:inputType="text"
+                android:id="@+id/mmtxt"
+                android:textStyle="bold"
+                android:textSize="15sp"
+                android:textColor="@color/Black" />
+
+            <TextView
+                android:paddingLeft="10dp"
+                android:layout_toRightOf="@+id/img2"
+                android:layout_below="@+id/mmtxt"
+                android:id="@+id/mmnrtxt"
+                android:textSize="10sp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="MH 01 AB 1234"/>
+
+        </RelativeLayout>
+        <RelativeLayout
+            android:layout_below="@+id/relative3"
+            android:id="@+id/relative4"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <ImageView
+                android:id="@+id/img3"
+                android:layout_width="35dp"
+                android:layout_height="40dp"
+                android:background="@drawable/ic_date"/>
+            <TextView
+                android:paddingLeft="10dp"
+                android:layout_toRightOf="@+id/img3"
+                android:layout_gravity="center_vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="02/12/2018"
+                android:inputType="text"
+                android:id="@+id/datetxt"
+                android:textStyle="bold"
+                android:textSize="15sp"
+                android:textColor="@color/Black" />
+
+            <TextView
+                android:paddingLeft="10dp"
+                android:layout_toRightOf="@+id/img3"
+                android:layout_below="@+id/datetxt"
+                android:id="@+id/dttimetxt"
+                android:textSize="10sp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="12:00am"/>
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_below="@+id/relative3"
+            android:id="@+id/relative5"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <ImageView
+                android:id="@+id/img4"
+                android:layout_width="35dp"
+                android:layout_height="40dp"
+                android:background="@drawable/status_icon"/>
+            <TextView
+                android:paddingLeft="10dp"
+                android:layout_toRightOf="@+id/img4"
+                android:layout_gravity="center_vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Status"
+                android:inputType="text"
+                android:id="@+id/statustxt"
+                android:textStyle="bold"
+                android:textSize="15sp"
+                android:textColor="@color/Black" />
+
+            <TextView
+                android:paddingLeft="10dp"
+                android:layout_toRightOf="@+id/img4"
+                android:layout_below="@+id/statustxt"
+                android:id="@+id/stpendingtxt"
+                android:textSize="10sp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Panding"/>
+
+        </RelativeLayout>
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    <Button
+        android:layout_marginLeft="110dp"
+        android:layout_marginTop="25dp"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:id="@+id/Showbtn"
+        android:text="Show More"
+        android:textAllCaps="false"
+        android:background="@color/Blue"
+        android:textColor="@color/White"/>
+    <Button
+        android:layout_marginLeft="25dp"
+        android:layout_marginTop="25dp"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:id="@+id/invoicebtn"
+        android:layout_toRightOf="@+id/Showbtn"
+        android:text="Invoice"
+        android:textAllCaps="false"
+        android:background="@color/Blue"
+        android:textColor="@color/White"/>
+    </RelativeLayout>
+</LinearLayout>
+</android.support.v7.widget.CardView>

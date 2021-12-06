@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/aboutus"
+            android:title="About" />
+        <item
+            android:id="@+id/nav_Service"
+            android:icon="@drawable/servi"
+            android:title="Service" />
+        <item
+            android:id="@+id/nav_repair"
+            android:icon="@drawable/repair_icon"
+            android:title="Repair" />
+        <item
+            android:id="@+id/nav_insurance"
+            android:icon="@drawable/insurance"
+            android:title="insurance" />
+        <item
+            android:id="@+id/nav_contact"
+            android:icon="@drawable/contactus"
+            android:title="Contact" />
+
+
+
+            <item
+                android:id="@+id/nav_profile"
+                android:icon="@drawable/profileuser"
+                android:title="Profile" />
+            <item
+                android:id="@+id/nav_booking"
+                android:icon="@drawable/reports"
+                android:title="Contact" />
+        <item
+            android:id="@+id/nav_vouchersicon"
+            android:icon="@drawable/vouchersicon"
+            android:title="Voucher" />
+
+    </group>
+        </menu>
+

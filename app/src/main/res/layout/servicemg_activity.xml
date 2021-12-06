@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_margin="15dp"
+    android:layout_height="match_parent">
+
+
+    <ImageView
+        android:id="@+id/mygroomimg"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/myt" />
+
+    <TextView
+        android:id="@+id/mgtxt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/mygroomimg"
+        android:gravity="center_horizontal"
+        android:text="My Groom"
+        android:textColor="@color/Yollew"
+        android:textSize="15sp"
+        android:textStyle="bold" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="false"
+        android:gravity="center_horizontal"
+        android:layout_below="@+id/mgtxt"
+        android:layout_marginTop="25dp">
+
+        <LinearLayout
+            android:id="@+id/lineargets"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/smarttxt"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="5dp"
+                android:text="Smart Combo"
+                android:textColor="@color/Black"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/servictxt"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:padding="5dp"
+                android:text="3 Serviceing"
+                android:textColor="@color/Black"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/prictxt"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:padding="5dp"
+                android:text="₹ 899"
+                android:textColor="@color/Black"
+                android:textSize="15sp" />
+
+            <Button
+                android:id="@+id/getsebtn"
+                android:layout_width="110dp"
+                android:layout_height="50dp"
+                android:background="@drawable/btnservise"
+                android:text="Get Service"
+                android:textAllCaps="false"
+                android:textColor="@color/White"
+                android:textSize="15sp"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/linear"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="25dp"
+            android:layout_toRightOf="@+id/lineargets"
+            android:gravity="center_horizontal"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/primetxt"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:padding="5dp"
+                android:text="Prime Combo"
+                android:textColor="@color/Black"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/servicetxt"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="5dp"
+                android:text="3 Serviceing"
+                android:textColor="@color/Black"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/pricetxt"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:padding="5dp"
+                android:text=" ₹ 899"
+                android:textColor="@color/Black"
+                android:textSize="15sp" />
+
+            <Button
+                android:id="@+id/getsbtn"
+                android:layout_width="110dp"
+                android:layout_height="50dp"
+                android:background="@drawable/btnservise"
+                android:text="Get Service"
+                android:textAllCaps="false"
+                android:textColor="@color/White"
+                android:textSize="15sp"
+                android:textStyle="bold" />
+        </LinearLayout>
+    </RelativeLayout>
+</RelativeLayout>

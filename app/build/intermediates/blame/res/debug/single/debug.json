@@ -1,0 +1,866 @@
+[
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_logo_blue.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\logo_blue.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable_smart.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable\\smart.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\layout_slider_work4.xml.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\layout\\slider_work4.xml"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_starfill.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\starfill.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_placemarker.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\placemarker.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\layout_booking_preview.xml.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\layout\\booking_preview.xml"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_thanks.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\thanks.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable_slider_image2.jpg.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable\\slider_image2.jpg"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_dropdown.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\dropdown.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_android_black_24dp.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_android_black_24dp.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_home.xml.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\layout\\content_home.xml"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\layout_booking_layout.xml.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\layout\\booking_layout.xml"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_lock.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\lock.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_joinus.jpg.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\joinus.jpg"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\layout_slider_work3.xml.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\layout\\slider_work3.xml"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_dateicon.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\dateicon.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gradient.xml.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable\\gradient.xml"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_click.xml.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable\\button_click.xml"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\layout_editprofile.xml.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\layout\\editprofile.xml"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_mail1.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\mail1.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable_slider_image1.jpg.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable\\slider_image1.jpg"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btnser.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\btnser.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_repairicon.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\repairicon.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable_insurance_bike.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable\\insurance_bike.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\layout_servicerating.xml.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\layout\\servicerating.xml"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_slideshow.xml.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-v21\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_service.xml.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\layout\\activity_service.xml"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable_repair.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable\\repair.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bike.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable\\bike.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable_service.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable\\service.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\layout_paymentsuccess.xml.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\layout\\paymentsuccess.xml"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\layout_servicemg_activity.xml.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\layout\\servicemg_activity.xml"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header_home.xml.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\layout\\nav_header_home.xml"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable_splash_background.xml.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable\\splash_background.xml"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable_list_item_bg_pressed.xml.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable\\list_item_bg_pressed.xml"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_forgot_password.xml.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\layout\\activity_forgot_password.xml"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_repair.xml.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\layout\\activity_repair.xml"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_service_icon.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\service_icon.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bookingid_icon.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\bookingid_icon.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_telephone.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\telephone.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable_payment.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable\\payment.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_prime.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\prime.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_pickup.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\pickup.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_hash.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\hash.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_grhome1.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\grhome1.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sent.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\sent.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\layout_service_item.xml.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\layout\\service_item.xml"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_logo.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\logo.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\layout_service.xml.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\layout\\service.xml"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_mobile.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\mobile.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_gender.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\gender.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_facebook.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\facebook.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable_list_item_bg_normal.xml.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable\\list_item_bg_normal.xml"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bike_pickup.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\bike_pickup.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\layout_changepassword.xml.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\layout\\changepassword.xml"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_map.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\map.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\layout_signup.xml.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\layout\\signup.xml"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_logout.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\logout.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_probag2.jpg.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\probag2.jpg"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img_service.xml.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable\\img_service.xml"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_service.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\service.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_nointernet.jpg.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\nointernet.jpg"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\layout_servicecenter_activity.xml.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\layout\\servicecenter_activity.xml"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable_zoom_out.xml.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable\\zoom_out.xml"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_pickupp.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\pickupp.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_slider1.jpg.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\slider1.jpg"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_service1.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\service1.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_android_black_24dp.xml.flat",
+        "source": "F:\\project\\GroomAuto\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_android_black_24dp.xml"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_fb_button.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\fb_button.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_bar_home.xml.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\layout\\app_bar_home.xml"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\layout_profile.xml.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\layout\\profile.xml"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_insurancedash.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\insurancedash.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_home_drawer.xml.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\menu\\activity_home_drawer.xml"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher1.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher1.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable_backarrow.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable\\backarrow.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable_service_trans_icon.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable\\service_trans_icon.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_insurance.xml.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\layout\\activity_insurance.xml"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_service_icon_1.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\service_icon_1.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gradient_spinner.xml.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable\\gradient_spinner.xml"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sign_in_button.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\sign_in_button.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_payment_icon1.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\payment_icon1.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable_zoom_in.xml.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable\\zoom_in.xml"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable_buttonshaped.xml.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable\\buttonshaped.xml"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable_editboxcorner.xml.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable\\editboxcorner.xml"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_mailuser.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\mailuser.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_android_black_24dp.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_android_black_24dp.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ghome2.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\ghome2.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_search.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\search.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_logogroomauto.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\logogroomauto.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_home.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\ic_home.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\layout_drawer.xml.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\layout\\drawer.xml"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_tow.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\ic_tow.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_auto_detect.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\auto_detect.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable_line.xml.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable\\line.xml"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "F:\\project\\GroomAuto\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_manage.xml.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-v21\\ic_menu_manage.xml"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_send.xml.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-v21\\ic_menu_send.xml"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\menu_home.xml.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\menu\\home.xml"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable_smartg.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable\\smartg.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_parts.jpg.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\parts.jpg"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_pass_icon.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\pass_icon.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_logo_blue_1.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\logo_blue_1.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_android_black_24dp.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_android_black_24dp.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_repairdash.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\repairdash.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pickdrop_icon.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable\\pickdrop_icon.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_rupees.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\rupees.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_vouchersicon.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\vouchersicon.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable_inspection.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable\\inspection.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_gallery.xml.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-v21\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_logouts.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\logouts.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_newabout.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\newabout.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_city.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\city.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background.xml.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable\\background.xml"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\layout_homefragment.xml.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\layout\\homefragment.xml"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_google.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\google.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_backarrow.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\backarrow.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable_primeg.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable\\primeg.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_android_black_24dp.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_android_black_24dp.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_fullname.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\fullname.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_scrn.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\scrn.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_date.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\ic_date.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\layout_groomsplash_activity.xml.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\layout\\groomsplash_activity.xml"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\layout_slider_load.xml.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\layout\\slider_load.xml"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher11.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher11.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_splash_srceen.jpg.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\splash_srceen.jpg"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable_reminder.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable\\reminder.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_google_button.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\google_button.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_myt.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\myt.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_insurance_icon.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\insurance_icon.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_contact_us.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\contact_us.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_camera.xml.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-v21\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sld.jpg.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\sld.jpg"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable_reminder_icon.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable\\reminder_icon.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\home.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_about.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\about.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_contactus.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\contactus.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_servicedash.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\servicedash.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img_circle.xml.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable\\img_circle.xml"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_general_service.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\general_service.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable_formborder.xml.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable\\formborder.xml"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_status_icon.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\status_icon.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_noimage.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\noimage.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_technicians.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\technicians.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\layout_bookingdetails.xml.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\layout\\bookingdetails.xml"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable_serach_view.xml.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable\\serach_view.xml"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_menufect.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\menufect.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_servi.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\servi.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\layout_recycle_item.xml.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\layout\\recycle_item.xml"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_service_center_shop.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\service_center_shop.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_reports.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\reports.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable_technician_icon.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable\\technician_icon.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_smart.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\smart.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bullet.jpg.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\bullet.jpg"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_search_icon.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\search_icon.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable_buttonbg.xml.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable\\buttonbg.xml"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\layout_slider_work1.xml.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\layout\\slider_work1.xml"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_share.xml.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-v21\\ic_menu_share.xml"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_location.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\location.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_insurance.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\insurance.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\layout_pdf_view.xml.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\layout\\pdf_view.xml"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable_counter_bg.xml.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable\\counter_bg.xml"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable_border.xml.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable\\border.xml"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_share.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\share.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\layout_alartdailogbox.xml.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\layout\\alartdailogbox.xml"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_profileuser.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\profileuser.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_man.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\man.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\layout_aboutsfragment.xml.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\layout\\aboutsfragment.xml"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btnservise.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\btnservise.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_bike.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\ic_bike.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fair_price_icon.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable\\fair_price_icon.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable_side_nav_bar.xml.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sign_in_button.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable\\sign_in_button.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_spinner.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable\\ic_spinner.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_twit.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\twit.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_service1.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\ic_service1.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_log_background.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\log_background.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable_payment_icon.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable\\payment_icon.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_groomlogo.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\groomlogo.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_aboutus.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\aboutus.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable_list_selector.xml.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable\\list_selector.xml"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable_slider_image3.jpg.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable\\slider_image3.jpg"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo_blue.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable\\logo_blue.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\layout_home.xml.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\layout\\home.xml"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_android_black_24dp.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_android_black_24dp.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_mail.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\mail.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bike_blue.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable\\bike_blue.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bike_transparent.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\bike_transparent.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_regno.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\regno.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bike_red.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\bike_red.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_repair_icon.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\drawable-hdpi\\repair_icon.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_android_black_24dp.png.flat",
+        "source": "F:\\project\\GroomAuto\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_android_black_24dp.png"
+    },
+    {
+        "merged": "F:\\project\\GroomAuto\\app\\build\\intermediates\\res\\merged\\debug\\layout_slider_work2.xml.flat",
+        "source": "F:\\project\\GroomAuto\\app\\src\\main\\res\\layout\\slider_work2.xml"
+    }
+]
